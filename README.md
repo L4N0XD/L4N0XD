@@ -5,7 +5,7 @@ When I was younger, I threw myself into the world of technology and found myself
 Only when I was 23 I had the courage to play professionally and I saw it as more than just a hobby.
 
 I have knowledge in:
-Java and Python
+Java, Python, CSS3, HTML5, JavaScript, ReactJS.
 
 And I am very interested in Internship.
 
