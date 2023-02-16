@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L4N0XD (Taylan Noronha)
 
-I'm an enthusiastic developer, just starting to finally work in an area that I like and have an affinity for. 
+I'm an enthusiastic developer, work in an area that I like and have an affinity for. 
 When I was younger, I threw myself into the world of technology and found myself little by little. 
 Only when I was 23 I had the courage to play professionally and I saw it as more than just a hobby.
 
