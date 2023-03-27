@@ -10,7 +10,7 @@ Java, Python, CSS3, HTML5, JavaScript, ReactJS.
 And I am very interested in Internship.
 
 - 📫 How to reach me:
-Email: taylan.noronha123@gmail.com or laninhonokia@gmail.com
+Email: taylan.noronha123@gmail.com
 
 <!---
 L4N0XD/L4N0XD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
