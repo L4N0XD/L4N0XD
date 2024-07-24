@@ -1,25 +1,104 @@
-- 👋 Hi, I’m @L4N0XD (Taylan Noronha)
+<h2 align="center">@L4N0XD (Taylan Noronha)</h2>
+<h4 align="center"> Assistente de Sistemas - Pleno @ Stanza | Data Analytics | Software Developer | Python | Power BI</h4>
 
-I am a highly motivated and enthusiastic developer who has always been passionate about technology. I have been exploring the world of programming from a young age and have gained extensive knowledge and experience in various technologies including Python, Django, JavaScript, ReactJS, CSS, HTML, React Native, SQL, and Bootstrap.
+<h3 align="center">Sobre mim:</h3>  
 
-Experience:
-I have been actively engaged in various programming projects. My work on Github (github.com/l4n0xd) showcases my skills in developing and designing innovative solutions. Through my projects, I have gained hands-on experience in software development, including database management and user interface design.
+<p> Com meu conhecimento, tenho contribuído para projetos que transformam a maneira como as informações são gerenciadas e analisadas, fortalecendo a tomada de decisões baseada em dados, além de aumentar a   eficiência e agilidade nos processos internos com as soluções de automações criadas.
 
-Skills:
+Formando em Sistemas de Informação, aplico as teorias e práticas aprendidas à minha atuação profissional, o que me permite abordar desafios com soluções inovadoras. 
+Minha trajetória é marcada por um profundo compromisso com a excelência e a segurança em todas as atividades de TI, refletindo meus valores de integridade e uma busca constante pelo conhecimento. 
+</p>
 
-Proficient in Python, JavaScript, ReactJS, CSS, HTML, React Native, SQL, and Bootstrap
-Strong problem-solving skills and ability to work under pressure
-Excellent attention to detail and ability to learn quickly
-Strong communication skills and ability to work collaboratively in a team environment
-Education:
-I am a self-taught developer with a passion for continuous learning and improvement. I have completed various online courses and have actively engaged in online communities to stay up-to-date with the latest technologies and best practices.
+<h3 align="center">Linguagens e Frameworks:</h3>
+<div align="center"> 
+    <br>
+    <div>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"> 
+        </a> 
+    </div>
+    <br>
+    <div>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+            <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> 
+        </a>  &nbsp&nbsp
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> 
+        </a> &nbsp&nbsp
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"> 
+        </a> 
+    </div>    
+</div>
+<h3 align="center">Estatísticas:</h3>
 
-I am currently seeking opportunities to further enhance my skills and contribute to meaningful projects. Please feel free to reach out to me to discuss potential opportunities or collaborations.
+<div align="center">
+  
+</div>
 
-- 📫 How to reach me:
-Email: taylan.noronha123@gmail.com
-
-<!---
-L4N0XD/L4N0XD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+    <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=l4n0xd&amp;locale=pt-br&amp;theme=highcontrast" alt="l4n0xd">
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=l4n0xd&amp;show_icons=true&amp;locale=pt-br&amp;layout=compact&amp;theme=highcontrast" alt="l4n0xd">
+</div>
+<h3 align="center">Contato:</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/taylan-noronha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:taylan.noronha123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
