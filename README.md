@@ -1,5 +1,5 @@
 <h2 align="center">@L4N0XD (Taylan Noronha)</h2>
-<h4 align="center"> Assistente de Sistemas - Pleno @ Stanza | Data Analytics | Software Developer | Python | Power BI</h4>
+<h4 align="center"> Assistente de Sistemas - Pleno @ Stanza | Data Analytics | Power BI | SQL | MySQL | Python</h4>
 
 <h3 align="center">Sobre mim:</h3>  
 
