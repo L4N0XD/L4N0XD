@@ -1,206 +1,140 @@
-<h2 align="center">@L4N0XD (Taylan Noronha)</h2>
-<h4 align="center"> Analista de Dados @ Stanza | Data Analytics | Power BI | SQL | MySQL | Python</h4>
-
-<h3 align="center">Sobre mim:</h3>  
-
-<p> Com meu conhecimento, tenho contribuído para projetos que transformam a maneira como as informações são gerenciadas e analisadas, fortalecendo a tomada de decisões baseada em dados, além de aumentar a   eficiência e agilidade nos processos internos com as soluções de automações criadas.
-
-Formando em Sistemas de Informação, aplico as teorias e práticas aprendidas à minha atuação profissional, o que me permite abordar desafios com soluções inovadoras. 
-Minha trajetória é marcada por um profundo compromisso com a excelência e a segurança em todas as atividades de TI, refletindo meus valores de integridade e uma busca constante pelo conhecimento. 
-</p>
-
-<h2  align="center">Linguagens e Frameworks:</h3>
 <div align="center">
-<table>
-  <tr align="center">
-    <td>
 
-### Linguagens
+```
+████████╗ █████╗ ██╗   ██╗██╗      █████╗ ███╗   ██╗
+╚══██╔══╝██╔══██╗╚██╗ ██╔╝██║     ██╔══██╗████╗  ██║
+   ██║   ███████║ ╚████╔╝ ██║     ███████║██╔██╗ ██║
+   ██║   ██╔══██║  ╚██╔╝  ██║     ██╔══██║██║╚██╗██║
+   ██║   ██║  ██║   ██║   ███████╗██║  ██║██║ ╚████║
+   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-<table>
-  <tr align="center">
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40" />
-      </a>
-    </td>
-  </tr align="center">
-</table>
+### Analista de Dados · Engenharia & Análise · Microsoft Fabric · Spark · Power BI
 
-</td>
-<td>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-taylan--noronha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/taylan-noronha)
+[![Gmail](https://img.shields.io/badge/Gmail-taylan.noronha123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taylan.noronha123@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=l4n0xd&color=0077B5&style=flat-square&label=visualizações)](https://github.com/l4n0xd)
 
-### Back-end
+</div>
 
-<table>
-  <tr align="center">
-    <td align="center">
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-      </a>
-    </td>
-  </tr align="center">
-</table>
+---
 
-</td>
-  </tr align="center">
+## Sobre mim
 
-  <tr align="center">
-    <td>
+Sou Analista de Dados com foco na interseção entre **engenharia de dados** e **análise estratégica**, entrego desde dashboards e KPIs até arquiteturas de dados escaláveis que sustentam decisões de negócio.
 
-### Front-end e Mobile
+Atualmente atuo no desenvolvimento do **Data Lake corporativo** da Construtora Stanza, utilizando **Microsoft Fabric**, **Apache Spark** e **arquitetura Medallion (Bronze/Silver/Gold)**, centralizando dados de todos os sistemas da empresa em uma única plataforma confiável.
 
-<table>
-  <tr align="center">
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-      </a>
-    </td>
-  </tr align="center">
-</table>
+Não entrego apenas dados: entrego decisões mais rápidas e embasadas.
 
-</td>
-<td>
+-  **Engenharia:** Data Lake, pipelines ETL, arquitetura Medallion, automações
+-  **Análise:** KPIs estratégicos, dashboards Power BI, relatórios automatizados
+-  **Formação:** Sistemas de Informação + Pós-graduação em Ciência de Dados (em andamento)
+-  **Idiomas:** Português nativo · Inglês C2 (EF SET 80/100) · Espanhol intermediário
+-  Aracaju, Sergipe 
+
+---
+
+## Stack Técnica
+
+### Dados & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<table>
-  <tr align="center">
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-      </a>
-    </td>
-  </tr align="center">
-</table>
+### Back-end & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-</td>
-  </tr align="center">
+### Front-end & Mobile
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-  <tr align="center">
-    <td>
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### DevOps e Cloud
+---
 
-<table>
-  <tr align="center">
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" />
-      </a>
-    </td>
-  </tr align="center">
-</table>
+## Projeto em Destaque
 
-</td>
-<td>
+###  Data Lake Corporativo - Construtora Stanza
+> Arquitetura Medallion com Microsoft Fabric, Apache Spark e Delta Lake
 
-### Ciência de Dados
+Centralizei dados de **todos os sistemas da empresa** em um único ambiente estruturado, viabilizando análises estratégicas antes indisponíveis. O projeto transformou a forma como a empresa acessa e utiliza seus dados.
 
-<table>
-  <tr align="center">
-    <td align="center">
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-      </a>
-    </td>
-  </tr align="center">
-</table>
+**Camadas:** `Bronze (raw)` → `Silver (curado)` → `Gold (analítico)`
 
-</td>
-  </tr align="center">
+**Desafios resolvidos:**
+-  **Tipagem dinâmica:** Algoritmo de inferência de tipos em tempo real, evitando quebras por overflow no MySQL (limite de 65.535 bytes)
+-  **Desaninhamento de JSON em batch:** Estruturação automática de JSONs complexos em tabelas relacionais com FK geradas dinamicamente
+-  **Janelas de execução:** Dados transacionais com alta frequência de atualização + cargas históricas pesadas rodando em lote durante a madrugada
 
-</table>
-</div>
+---
 
-<h3 align="center">Estatísticas:</h3>
+## Experiência
+
+```
+Construtora Stanza                                         3 anos 3 meses
+├── Analista de Dados II          jan/2025 – presente      1 ano 6 meses
+│   ├── Liderança do Data Lake corporativo (Fabric + Spark + Medallion)
+│   ├── Pipelines de KPIs com relatórios automáticos diários/semanais
+│   └── Dashboards Power BI para gestores de múltiplas áreas
+│
+├── Assistente de Sistemas Pleno  jan/2024 – jan/2025      1 ano 1 mês
+│   ├── Administração e evolução de sistemas de TI
+│   └── Automações internas com redução real de custos operacionais
+│
+└── Estagiário em Sistemas        abr/2023 – jan/2024      10 meses
+    ├── Tratamento, limpeza e validação de dados
+    └── Automações com Python/Django + dashboards Power BI
+```
+
+---
+
+## Certificações
+
+| Certificação | Emissor | Ano |
+|---|---|---|
+| Inteligência Artificial Aplicada | Uniamérica | 2025 |
+| Data Analytics | Uniamérica | 2025 |
+| Especialista em BI e Big Data | Uniamérica | 2025 |
+| Análise de Dados e Data Science — Intermediário | Data Science Academy | 2024 |
+| Microsoft Power BI para BI e Data Science | Data Science Academy | 2023 |
+| EF SET English Certificate — C2 Proficient (80/100) | EF SET | 2023 |
+| Especialista em DB Developer | Uniamérica | 2023 |
+| Potência Tech — Ciência de Dados | DIO / iFood | 2023 |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=l4n0xd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4n0xd&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
-    <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=l4n0xd&amp;locale=pt-br&amp;theme=highcontrast" alt="l4n0xd">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=l4n0xd&amp;show_icons=true&amp;locale=pt-br&amp;layout=compact&amp;theme=highcontrast" alt="l4n0xd">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l4n0xd&locale=pt-br&theme=github-dark-blue&hide_border=true" />
 </div>
-<h3 align="center">Contato:</h3>
+
+---
+
 <div align="center">
-  <a href="https://linkedin.com/in/taylan-noronha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:taylan.noronha123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+*"A engenharia de dados bonita de se ver só existe quando há um trabalho intenso de arquitetura lógica em todas as etapas."*
+
 </div>
