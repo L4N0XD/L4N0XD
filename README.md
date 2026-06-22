@@ -124,7 +124,7 @@ Construtora Stanza                                         3 anos 3 meses
 
 <div align="center">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=l4n0xd&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4n0xd&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=l4n0xd&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
